@@ -1,0 +1,27 @@
+{
+  "name": "vue-cli-locale-el",
+  "version": "0.1.1",
+  "description": "Greek localization for @vue/cli",
+  "unpkg": "./locales/el.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexkilty/vue-cli-locale-el.git"
+  },
+  "keywords": [
+    "vuejs",
+    "vue-cli",
+    "locale"
+  ],
+  "author": "Alex Kilty",
+  "contributors": [
+    {
+      "name": "John Peklaris",
+      "web": "https://github.com/JohnPek"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexkilty/vue-cli-locale-el/issues"
+  },
+  "homepage": "https://github.com/alexkilty/vue-cli-locale-el#readme"
+}
