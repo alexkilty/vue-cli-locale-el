@@ -1,22 +1,22 @@
 {
   "components": {
     "connection-status": {
-      "disconnected": "Disconnected from UI server",
-      "connected": "Connected!"
+      "disconnected": "Έγινε αποσύνδεση απο τον διακομιστή της διεπαφής",
+      "connected": "Συνδέθηκε!"
     },
     "file-diff": {
-      "binary": "Binary file not shown",
+      "binary": "Το δυαδικό αρχείο δεν ειναι εμφανές",
       "actions": {
-        "open": "Open in editor"
+        "open": "Άνοιγμα για επεξεργασία"
       }
     },
     "file-diff-view": {
-      "files-changed": "Files changed",
-      "search-file": "Search file",
-      "empty": "No change found",
+      "files-changed": "Οι φάκελοι αλλάχθηκαν",
+      "search-file": "Αναζήτηση φακέλου",
+      "empty": "Δεν βρέθηκε αλλαγή",
       "modals": {
         "commit": {
-          "title": "Commit changes",
+          "title": "Οριστικοποίηση αλλαγών",
           "input": "Enter a commit message",
           "subtitle": "Record changes to the repository",
           "actions": {
